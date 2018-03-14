@@ -1,0 +1,19 @@
+.main-content {
+  font-style: normal;
+}
+.float-left {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: rgba(119, 9, 9, .7);
+}
+.logo {
+  max-width: 500px;
+}
+.text-column {
+  width: 30%;
+  float: left;
+  margin: 10px;
+}
